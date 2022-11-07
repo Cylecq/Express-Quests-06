@@ -3,7 +3,7 @@
 ### Initialisation
 
 1. Clone the repo
-2. `cd Express-Quests-05`
+2. `cd Express-Quests-06`
 3. `npm i`
 4. `cp .env.sample .env`
 5. `npm run dev`
